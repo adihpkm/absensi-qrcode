@@ -1,2 +1,2 @@
 # absensi-qrcode
-Absensi QR Code
+APLIKASI PWS KESGA PSUKESMAS KOSAMBI
